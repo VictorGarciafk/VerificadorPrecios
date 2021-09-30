@@ -1,0 +1,165 @@
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.exe.config
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.exe
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.pdb
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.AssemblyReference.cache
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.Properties.Resources.resources
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.GenerateResource.cache
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.CoreCompileInputs.cache
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.exe
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.pdb
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.Form1.resources
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.dll
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\MySql.Data.dll
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\System.Buffers.dll
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\System.Memory.dll
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\Zstandard.Net.dll
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.pdb
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.xml
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\MySql.Data.xml
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\System.Buffers.xml
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\System.Memory.xml
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yesica\Desktop\linea\Semestre 7\Ing. Sof. 3\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.CopyComplete
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.exe.config
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.exe
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.pdb
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.dll
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\MySql.Data.dll
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\System.Buffers.dll
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\System.Memory.dll
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\Zstandard.Net.dll
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.pdb
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.xml
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\MySql.Data.xml
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\System.Buffers.xml
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\System.Memory.xml
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.AssemblyReference.cache
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.Form1.resources
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.Properties.Resources.resources
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.GenerateResource.cache
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.CoreCompileInputs.cache
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.CopyComplete
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.exe
+C:\Users\Yesica\Desktop\linea\Semestre_7\Ing.Sof.3\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.pdb
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.exe.config
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.exe
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.pdb
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.dll
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\MySql.Data.dll
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\System.Buffers.dll
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\System.Memory.dll
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\Zstandard.Net.dll
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.pdb
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.xml
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\MySql.Data.xml
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\System.Buffers.xml
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\System.Memory.xml
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.AssemblyReference.cache
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.Form1.resources
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.Properties.Resources.resources
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.GenerateResource.cache
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.CoreCompileInputs.cache
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.CopyComplete
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.exe
+C:\Users\denia\Downloads\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.pdb
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.exe.config
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.exe
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.pdb
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.dll
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\MySql.Data.dll
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Buffers.dll
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Memory.dll
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Zstandard.Net.dll
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.pdb
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.xml
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\MySql.Data.xml
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Buffers.xml
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Memory.xml
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.AssemblyReference.cache
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.Form1.resources
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.Properties.Resources.resources
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.GenerateResource.cache
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.CoreCompileInputs.cache
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.CopyComplete
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.exe
+C:\Users\denia\source\repos\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.pdb
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.exe.config
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.exe
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\Verificador_Precios.pdb
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.dll
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\MySql.Data.dll
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\System.Buffers.dll
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\System.Memory.dll
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\Zstandard.Net.dll
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.pdb
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\Google.Protobuf.xml
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\MySql.Data.xml
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\System.Buffers.xml
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\System.Memory.xml
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.AssemblyReference.cache
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.Form1.resources
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.Properties.Resources.resources
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.GenerateResource.cache
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.CoreCompileInputs.cache
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.csproj.CopyComplete
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.exe
+C:\Users\Vicxstroll20ka\Downloads\Verificador_Precios\Verificador_Precios\obj\Debug\Verificador_Precios.pdb
